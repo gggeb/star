@@ -1,10 +1,11 @@
 {
   "name": "star",
   "version": "1.0.0",
-  "description": "a bullet-hell/platformer",
+  "description": "a bullet-hell/platformer game",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+	"build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gggeb/star/issues"
   },
-  "homepage": "https://github.com/gggeb/star#readme"
+  "homepage": "https://github.com/gggeb/star#readme",
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
 }
