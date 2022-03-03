@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="77.503998mm"
+   height="98.850838mm"
+   viewBox="0 0 77.503998 98.850838"
+   version="1.1"
+   id="svg839"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="ship.svg"
+   inkscape:export-filename="/home/geb/work/star/images/ship/ship.png"
+   inkscape:export-xdpi="70"
+   inkscape:export-ydpi="70">
+  <defs
+     id="defs833" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5930196"
+     inkscape:cx="51.804933"
+     inkscape:cy="171.50356"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.44756,-0.6882997)">
+    <path
+       id="rect1427"
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 86.95156,70.107399 c 0,15.775495 -16.386842,9.903069 -36.751825,9.90307 -20.364981,0 -36.752175,5.872426 -36.752175,-9.90307 0,-15.775497 10.963272,-67.4190485 36.751825,-67.4190993 25.788608,-5.08e-5 36.752176,51.6436033 36.752175,67.4190993 z"
+       sodipodi:nodetypes="sssss" />
+    <path
+       id="rect1427-6"
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 69.484608,50.109667 c 0,7.981372 -8.687724,14.231808 -19.484517,14.231809 -10.796792,0 -19.484701,-6.250437 -19.484701,-14.231809 0,-7.981373 6.390345,-34.10964 19.484515,-34.109667 13.094202,-2.7e-5 19.484703,26.128295 19.484703,34.109667 z"
+       sodipodi:nodetypes="sssss" />
+    <path
+       id="rect1427-6-5"
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 33.777955,83.218021 c 0,-2.829736 7.233025,-2.817999 16.22197,-2.818 8.988937,0 16.22212,-0.01173 16.22212,2.818 0,2.829738 -5.320326,14.321118 -16.221968,14.321118 -10.901663,9e-6 -16.222122,-11.49138 -16.222122,-14.321118 z"
+       sodipodi:nodetypes="sssss" />
+  </g>
+</svg>
