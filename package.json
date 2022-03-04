@@ -2,10 +2,10 @@
   "name": "star",
   "version": "1.0.0",
   "description": "a bullet-hell/platformer game",
-  "main": "index.js",
+  "main": "src/game.js",
   "scripts": {
     "start": "parcel index.html",
-	"build": "parcel build index.html"
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/gggeb/star#readme",
   "devDependencies": {
-    "parcel": "^2.3.2"
+    "parcel": "^2.3.2",
+    "querystring-es3": "^0.2.1"
+  },
+  "dependencies": {
+    "pixi.js": "^6.2.2"
   }
 }
